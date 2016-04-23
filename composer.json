@@ -1,0 +1,13 @@
+{
+    "require": {
+        "jms/serializer": "^1.1",
+        "blackprism/serializer": "dev-master",
+        "symfony/serializer": "^3.0"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url":  "https://github.com/blackprism/serializer.git"
+        }
+    ]
+}
